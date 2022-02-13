@@ -5,9 +5,7 @@ Blockchain and QR code generation program for the paper, "SmartNoshWaste: Using 
 
 ## Paper citation
 
-```
-Dey,S.; Saha,S.; Singh, A.K.; McDonald-Maier, K. SmartNoshWaste: Using Blockchain, Machine Learning, Cloud Computing and QR Code to Reduce Food Waste in Decentralized Web 3.0 Enabled Smart Cities. Smart Cities 2022.
-```
+*Dey,S.; Saha,S.; Singh, A.K.; McDonald-Maier, K. SmartNoshWaste: Using Blockchain, Machine Learning, Cloud Computing and QR Code to Reduce Food Waste in Decentralized Web 3.0 Enabled Smart Cities. Smart Cities 2022.*
 
 ## Installation
 
